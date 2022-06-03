@@ -6,3 +6,4 @@ git commit -m "message"
 git push
 git pull
 git command
+git touch
